@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a software engineer, runner, and knitter
-- 🔭 I’m currently working on the Capital One website
-- 🌱 I'm new to open-source but excited to contribute in 2025
-- 👯 I’m looking to collaborate on open-source ML or budgeting tools
-- 💬 Ask me about performance experimentation
-- 📫 How to reach me: email is best (naomihoffman21@gmail.com)
+- 🔭 I’m currently working at Capital One as a principal engineer
+- 🌱 I'm new to open-source but excited to contribute in 2026
